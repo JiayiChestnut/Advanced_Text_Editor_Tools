@@ -8,7 +8,7 @@ import java.util.Random;
 
 /** 
  * An implementation of the MTG interface that uses a list of lists.
- * @author UC San Diego Intermediate Programming MOOC team 
+ *  
  */
 public class MarkovTextGeneratorLoL implements MarkovTextGenerator {
 

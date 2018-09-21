@@ -5,7 +5,7 @@ import java.util.Set;
 
 /** 
  * Represents a node in a Trie
- * @author UC San Diego Intermediate Programming MOOC Team
+ * 
  *
  */
 class TrieNode {

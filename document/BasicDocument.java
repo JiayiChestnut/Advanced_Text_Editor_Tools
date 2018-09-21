@@ -4,7 +4,7 @@ import java.util.List;
 
 /** 
  * A naive implementation of the Document abstract class. 
- * @author UC San Diego Intermediate Programming MOOC team
+ * 
  */
 public class BasicDocument extends Document 
 {
