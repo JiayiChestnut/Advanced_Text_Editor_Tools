@@ -1,12 +1,12 @@
 /**
- *
+ * 
  */
 package spelling;
 
 import java.util.List;
 
 /**
- * @author Jiayi Li
+ * @author Christine
  *
  */
 public interface AutoComplete {
